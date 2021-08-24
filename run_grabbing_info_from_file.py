@@ -1,8 +1,10 @@
 """
+######
 This is an exercise to grab information from big files without using huge amounts of memory,
     being able to reduce the info grabbed to only what you need from the file.
 
 This is for training purposes only.
+######
 """
 
 import re
